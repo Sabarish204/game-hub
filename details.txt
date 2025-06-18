@@ -1,0 +1,12 @@
+1) chakra ui for ui comoponents
+2) rawg.io for games api
+		password : QLwy5hCJ-e!BiwR
+		email    : sabarishdeveloper@gmail.com
+		username : sabarishdeveloper
+		api key  : 74a73354afd74100acc02d5f35b5a8ca 
+3) axios for apis calling
+4) react icons plugin for icons
+
+need to continue from 111 video
+
+5) vercel ==> deploying react to online
